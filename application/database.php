@@ -17,7 +17,7 @@ return [
     // 数据库名
     'database'        => 'shop8',
     // 用户名
-    'username'        => 'root',
+    'username'        => 'huifeng',
     // 密码
     'password'        => '1234',
     // 端口
